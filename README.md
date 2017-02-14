@@ -1,2 +1,2 @@
 # hasten
-Hasten is simple app accelerator but yet powerfull.
+Hasten is a simple app accelerator but yet powerfull.
